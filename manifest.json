@@ -1,0 +1,14 @@
+{
+  "Group": "Natfi",
+  "Name": "Snuffles",
+  "Version": "1.0.0",
+  "Description": "First mod - adds Snuffles!",
+  "Authors": [],
+  "Website": "https://github.com/Natfii",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
